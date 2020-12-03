@@ -10,13 +10,14 @@ for dir in $(ls ./); do
 
      # check if its a directory
      if [[ -d $dir ]]; then
-          echo "- [$dir](#./$dir)" >> $readme
+          dir_name="$(echo $dir | sed 's/_/ /g')"
+          echo "- [$dir_name](#$dir)" >> $readme
 
           # for file in each directory
           for file in $(ls "./$dir"); do
 
                # full path to the file
-               file_path="./$dir/$file" 
+               file_path="$dir/$file" 
 
                # get the table of contents from the file
                #file_toc=$(sed -n '/begin/,/end/p' $(echo $file_path))

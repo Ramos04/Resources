@@ -11,6 +11,8 @@ Full of resources i've gathered over the years
   - [customization](operating_systems/customization.md)
   - [virtualization](operating_systems/virtualization.md)
 - [security](security)
+  - [blogs](security/blogs.md)
+  - [cheatsheets](security/cheatsheets.md)
   - [dfir](security/dfir.md)
   - [red team](security/red_team.md)
   - [security operations](security/security_operations.md)

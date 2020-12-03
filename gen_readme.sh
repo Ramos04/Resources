@@ -11,7 +11,7 @@ for dir in $(ls ./); do
      # check if its a directory
      if [[ -d $dir ]]; then
           dir_name="$(echo $dir | sed 's/_/ /g')"
-          echo "- [$dir_name](#$dir)" >> $readme
+          echo "- [$dir_name]($dir)" >> $readme
 
           # for file in each directory
           for file in $(ls "./$dir"); do
@@ -26,7 +26,7 @@ for dir in $(ls ./); do
                toc_entry="$(echo $file | cut -d'.' -f1 | sed 's/_/ /g')"
 
                if [[ -f $file_path ]]; then
-                    echo "  - [$toc_entry](#$file_path)" >> $readme
+                    echo "  - [$toc_entry]($file_path)" >> $readme
                fi
           done
      fi

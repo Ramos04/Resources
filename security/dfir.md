@@ -10,6 +10,12 @@
     - [_Windows_](#windows)
 <!--- end -->
 
+* **Starter Guide to Linux Forensics | Hackaday** - <https://hackaday.com/2017/08/08/starter-guide-to-linux-forensics/>
+* **Event Log Auditing, Demystified – Hacker Noon** - <https://hackernoon.com/event-log-auditing-demystified-75b55879f069>
+* **Open Source Memory Forensics** - <https://www.volatilityfoundation.org/>
+* **Autopsy | Open Source Digital Forensics** - <https://www.autopsy.com/>
+* **SysKit** - <https://ourstories.syskit.com/>
+
 ## _Linux_
 
 * **Introduction to Linux Forensics** <https://hackaday.com/2017/08/08/starter-guide-to-linux-forensics/>

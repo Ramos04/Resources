@@ -1,9 +1,9 @@
 # Routers
 
-<!--- begin -->
+[](begin)
 - [Routers](#routers)
   - [_VyOS_](#vyos)
-<!--- end -->
+[](end)
 
 ## _VyOS_
 

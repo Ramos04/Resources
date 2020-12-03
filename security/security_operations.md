@@ -1,5 +1,6 @@
 # Security Operations
 
+<!--- begin -->
 - [Security Operations](#security-operations)
   - [_ELK_](#elk)
   - [_IDS_](#ids)
@@ -7,6 +8,7 @@
     - [Snort](#snort)
     - [Wazuh](#wazuh)
     - [Zeek](#zeek)
+<!--- end -->
 
 ## _ELK_
 

@@ -1,5 +1,6 @@
 # Digital Forensics and Incident Response
 
+<!--- begin -->
 - [Digital Forensics and Incident Response](#digital-forensics-and-incident-response)
   - [_Linux_](#linux)
   - [_Logging_](#logging)
@@ -7,6 +8,7 @@
   - [_Privilege Escalation_](#privilege-escalation)
     - [_Linux_](#linux-1)
     - [_Windows_](#windows)
+<!--- end -->
 
 ## _Linux_
 
